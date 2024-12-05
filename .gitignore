@@ -1,0 +1,10 @@
+.idea
+
+with_sound_csv/*
+without_sound_csv/*
+
+.venv
+
+saida
+categorias-c
+categorias-s
