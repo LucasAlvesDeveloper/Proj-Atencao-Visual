@@ -1,0 +1,13 @@
+Os resultados do script estão na pasta "saida".
+
+
+Alguns avisos:
+
+- Caso queira rodar o script,
+  certifique-se de colocar as pastas 'with_sound_csv' e 'without_sound_csv' na mesma pasta do arquivo em python.
+- No console você verá que alguns arquivos são ignorados.
+  Isto é proposital, visto que alguns arquivos só existem em uma das pastas,
+  portanto são ignorados pois é necessário que o arquivo exista nas duas pastas para efeito de comparação.
+- O arquivo video_sizes.csv não chega a ser usado no script, então não se preocupe se ele se perder ou algo assim.
+  Ele foi criado apenas para salvar as dimensões de cada vídeo usado na pesquisa, se isso for necessário no futuro.
+- Se tiver dúvidas sobre alguma parte do código, mande mensagem para Lucas Alves ((94) 98431-1072)
